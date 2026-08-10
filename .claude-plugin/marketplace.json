@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "all-repo-plugins",
+  "version": "1.0.0",
+  "description": "A personal marketplace of Claude Code plugins",
+  "owner": {
+    "name": "Nithin Raghav",
+    "email": "nithin.raghav@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "frontend-design",
+      "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
+      "version": "1.1.0",
+      "author": {
+        "name": "Prithvi Rajasekaran, Alexander Bricken",
+        "email": "prithvi@anthropic.com, alexander@anthropic.com"
+      },
+      "source": "./plugins/frontend-design",
+      "category": "design"
+    }
+  ]
+}
