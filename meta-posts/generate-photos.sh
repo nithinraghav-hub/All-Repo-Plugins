@@ -11,7 +11,7 @@ HC="--image refs/Hardcover.png"
 SC="--image refs/Softcover.png"
 MILA="--image refs/photo-to-book.png"
 
-STYLE="warm golden-hour light, cosy Australian family home, soft natural tones; keep the Genie Books cover design and gold lamp logo exactly as in the reference"
+STYLE="warm golden-hour light, cosy Australian family home, soft natural tones; any visible book pages use soft watercolour storybook illustration; keep the Genie Books cover design and gold lamp logo exactly as in the reference"
 
 # photo-1: hero (Post 1)
 higgsfield product-photoshoot create --mode hero_banner $HC --aspect_ratio 4:5 --count 2 \
