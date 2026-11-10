@@ -11,11 +11,11 @@ HC="--image refs/Hardcover.png"
 SC="--image refs/Softcover.png"
 MILA="--image refs/photo-to-book.png"
 
-STYLE="warm golden-hour light, cosy Australian family home, soft natural tones; any visible book pages use soft watercolour storybook illustration; keep the Genie Books cover design and gold lamp logo exactly as in the reference"
+STYLE="warm golden-hour light, cosy Australian family home, soft natural tones; any visible book pages show a soft watercolour illustration of a young child as the story hero, with no readable text or letters on the pages; match the reference cover exactly: bright coral-red, large smiling sleeping crescent moon with the white bunny curled against it on a cloud, gold stars and swirls, gold lamp logo"
 
 # photo-1: hero (Post 1)
 higgsfield product-photoshoot create --mode hero_banner $HC --aspect_ratio 4:5 --count 2 \
-  --prompt "The Genie Books hardcover personalised storybook standing on a wooden table beside a second copy lying open on a colourful illustrated page; $STYLE"
+  --prompt "The Genie Books hardcover personalised storybook standing on a wooden table beside a second copy lying open on a double-page watercolour spread of a curly-haired young girl exploring the Australian bush with a friendly kangaroo; $STYLE"
 
 # photo-2: photo-to-character transformation (Post 2)
 higgsfield product-photoshoot create --mode restyle $MILA --aspect_ratio 4:5 --count 2 \
