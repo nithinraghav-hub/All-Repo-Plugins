@@ -4,10 +4,14 @@
 **Link:** https://www.toygenie.com.au/pages/personalised-storybooks · Builder: https://books.toygenie.com.au
 **Prices (Shopify, 10 Nov 2026):** Softcover $49.95 AUD · Hardcover $69.95 AUD
 
-**Facts the copy relies on** (from the product listing, books.toygenie.com.au and your screenshots):
-- Upload a photo, choose a theme, and Genie Books builds a consistent illustrated character and an original story.
-- Original stories with a little lesson at heart; a dedication from you, kept in the story; every word and picture reviewed by a grown-up.
-- A full cover wrap plus 30 interior pages (15 story spreads); age bands 2–4, 5–7 and 8–10.
+**Facts the copy relies on** (from the product listing, the Genie Books app and your screenshots):
+- Personalise name, age band, pronouns, appearance, interests and a dedication. Optionally upload a real photo of your child to guide their illustrated likeness, or skip it for a fully fictional character.
+- 20 story themes, or write your own story idea; three illustration styles: soft watercolour, colourful storybook cartoon, gentle 3D-inspired.
+- Up to two versions of the story and of the character to choose from; read the complete book before approving. Nothing is printed or charged until you approve the proof.
+- Original stories with a little lesson at heart; every word and picture reviewed by a grown-up.
+- Square 20×20cm (8×8in), 30 interior pages, softcover or hardcover. The cover shows your child with the "genie books by ToyGenie" logo.
+- Printed locally in Australia (Gelato); most books arrive around 3–5 business days after you approve the proof (remote areas +1–2 days).
+- Age bands 2–4, 5–7 and 8–10.
 - Themes and their values: Superhero Adventure (courage & kindness), Unicorn and Rainbow Kingdom (wonder & friendship), Magical Kingdom (imagination & bravery), Kindness Garden (empathy & growing together), First Day Adventure (confidence & new beginnings), Birthday Quest (gratitude & belonging), plus Christmas, Australian wildlife, dinosaur, pirate, bedtime, new sibling and more.
 - Free "Take a peek inside a sample" preview: no purchase or upload needed.
 - Brand lines: *"Their favourite story. Starring their favourite hero."* · *"Small moments. Beautiful memories."* · *"A little imagination. A lifetime of memories."* · *"Every adventure needs a hero."*
@@ -20,7 +24,7 @@ Each post has a matching photo brief (`photo-N`) in `generate-photos.sh`.
 
 ## Post 1: Hero / launch (feed, 4:5)
 
-**Photo:** photo-1, Genie Books hardcover on a wooden table, open to a watercolour spread, golden-hour light.
+**Photo:** photo-1, a delighted child holding up her own Genie Book, with her illustrated self on the cover.
 
 **Primary text**
 > Their favourite story. Starring their favourite hero. ✨
@@ -30,8 +34,9 @@ Each post has a matching photo brief (`photo-N`) in `generate-photos.sh`.
 > 🦸 Superheroes · 🦄 Unicorns · 🏰 Magical kingdoms · 🦘 Aussie wildlife · 🦕 Dinosaurs and more
 > 📖 30 illustrated pages, for ages 2–10
 > 💌 Your own dedication inside
+> 👀 Preview every page before you pay
 >
-> Softcover $49.95 · Hardcover $69.95
+> Softcover $49.95 · Hardcover $69.95 · Printed in Australia
 
 **Headline:** Every adventure needs a hero
 **Description:** Personalised storybooks by ToyGenie
@@ -41,17 +46,17 @@ Each post has a matching photo brief (`photo-N`) in `generate-photos.sh`.
 
 ## Post 2: Photo-to-character transformation (feed, 4:5)
 
-**Photo:** use `refs/photo-to-book.png` as it is, or photo-2 for a vertical version.
+**Photo:** photo-2 (a child's photo on a phone beside his illustrated book), or `refs/photo-to-book.png` as it is.
 
 **Primary text**
 > From camera roll to storybook hero 📱➡️📖
 >
 > 1️⃣ Tell us about your hero
-> 2️⃣ Choose their story
-> 3️⃣ Add a photo, and we create their character sheet
-> 4️⃣ Preview the whole book before you order
+> 2️⃣ Pick their adventure, or write your own
+> 3️⃣ Add a photo (optional), and we illustrate a character that looks just like them
+> 4️⃣ Read the whole book, then approve. Nothing is printed or charged until you do.
 >
-> The same face on every page, in a world made just for them. ✨
+> The same little face on every page, in watercolour, storybook cartoon or 3D style. ✨
 >
 > 👉 Start yours at toygenie.com.au
 
@@ -62,7 +67,7 @@ Each post has a matching photo brief (`photo-N`) in `generate-photos.sh`.
 
 ## Post 3: Bedtime moment (feed, 4:5)
 
-**Photo:** photo-3, parent and child reading the book in bed, soft lamp light, child pointing at the page.
+**Photo:** photo-3, parent and child reading in bed; the child points at her illustrated self on the page.
 
 **Primary text**
 > "Read it again!" 🥹
@@ -80,7 +85,7 @@ Each post has a matching photo brief (`photo-N`) in `generate-photos.sh`.
 
 ## Post 4: Christmas gift (feed, 4:5)
 
-**Photo:** photo-4, the book partly unwrapped from kraft paper and ribbon, tree lights blurred behind.
+**Photo:** photo-4, a child on Christmas morning unwrapping a book with himself on the cover.
 
 **Primary text**
 > The gift they'll keep long after the toys are forgotten 🎄📖
@@ -89,6 +94,7 @@ Each post has a matching photo brief (`photo-N`) in `generate-photos.sh`.
 >
 > 🎁 For kids, grandkids, nieces and nephews (ages 2–10)
 > 📚 Softcover $49.95 · Hardcover $69.95
+> 🇦🇺 Printed in Australia; most books arrive 3–5 business days after you approve your proof
 > [CUT-OFF] Order by ___ for Christmas delivery
 >
 > Tap to create theirs ✨
@@ -100,7 +106,7 @@ Each post has a matching photo brief (`photo-N`) in `generate-photos.sh`.
 
 ## Post 5: Grandparents (feed, 1:1)
 
-**Photo:** photo-5, a grandparent's hands holding the open book, warm living-room light.
+**Photo:** photo-5, a grandmother and granddaughter reading the granddaughter's own Genie Book together.
 
 **Primary text**
 > Looking for a gift for the grandkids that's truly special? 👵👴💛
@@ -118,7 +124,7 @@ Each post has a matching photo brief (`photo-N`) in `generate-photos.sh`.
 
 ## Post 6: Story / Reel cover (vertical, 9:16)
 
-**Photo:** photo-6, a child holding the book up to the camera, cover facing out, space for text top and bottom.
+**Photo:** photo-6, a child holding her book beside her face, so the real and illustrated faces sit side by side, with space for text top and bottom.
 
 **On-image text (add in Canva or Meta's editor)**
 - Top: **"Wait… I'm IN the book?!"**
