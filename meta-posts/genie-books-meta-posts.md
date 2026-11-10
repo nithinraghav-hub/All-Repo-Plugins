@@ -16,6 +16,8 @@
 - Free "Take a peek inside a sample" preview: no purchase or upload needed.
 - Brand lines: *"Their favourite story. Starring their favourite hero."* · *"Small moments. Beautiful memories."* · *"A little imagination. A lifetime of memories."* · *"Every adventure needs a hero."*
 
+**Branding rule for every photo:** a real child plus the same child illustrated on the book. The book is square, the cover shows the child as the hero with the title at the top, and the "genie books by ToyGenie" logo (`refs/genie-books-logo.png`) sits in the bottom-right corner. If a generated cover's logo comes out garbled, place the real logo over it in Canva.
+
 > Before posting: add your real Christmas order cut-off date where marked `[CUT-OFF]`, or delete that line.
 
 Each post has a matching photo brief (`photo-N`) in `generate-photos.sh`.
