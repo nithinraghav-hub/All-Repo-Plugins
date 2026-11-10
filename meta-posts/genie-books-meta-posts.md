@@ -4,6 +4,9 @@
 **Link:** https://www.toygenie.com.au/pages/personalised-storybooks
 **Prices (from Shopify, 10 Nov 2026):** Softcover 8×8 $49.95 AUD · Hardcover 8×8 $69.95 AUD
 **How it works (from the product listing):** upload a photo → choose a theme → Genie Books builds a consistent illustrated character of your child and an original story starring them.
+**Themes (from books.toygenie.com.au):** dinosaur, unicorn, pirate, superhero, Australian wildlife, bedtime, Christmas, dragon, ocean, garden, kingdom, enchanted forest, vehicles, sports, animal rescue, world adventure, school, birthday, new sibling.
+
+**Ready-to-use image now:** `refs/photo-to-book.png` (your "Mila and the Moonlight Forest" image) already works for Post 2 as it is.
 
 > Before posting: the copy only claims what the product listing says. Add your real Christmas order cut-off date where marked `[CUT-OFF]`, and delete that line if you don't want a deadline in the post.
 
@@ -19,6 +22,8 @@ Each post has a matching photo brief (`photo-N`) in `generate-photos.sh`.
 > What if your child was the hero of their very own storybook? ✨
 >
 > Upload a photo, pick a theme, and our Genie Books studio turns your little one into an illustrated character, starring in an original story written just for them.
+>
+> Dinosaurs, unicorns, pirates, Aussie wildlife, bedtime, superheroes and more. Pick the adventure they'll love most.
 >
 > No two books are the same, because no two kids are. 📖💛
 >
@@ -75,7 +80,7 @@ Each post has a matching photo brief (`photo-N`) in `generate-photos.sh`.
 **Primary text**
 > The gift they'll keep long after the toys are forgotten 🎄📖
 >
-> A storybook where THEY are the hero: their face, their name, their own adventure. Made just for them, so you won't find it anywhere else.
+> A storybook where THEY are the hero: their face, their name, their own adventure. Choose our Christmas theme for a festive story starring them. Made just for them, so you won't find it anywhere else.
 >
 > 🎁 Perfect for kids, grandkids, nieces and nephews
 > 📚 Softcover $49.95 · Hardcover $69.95
