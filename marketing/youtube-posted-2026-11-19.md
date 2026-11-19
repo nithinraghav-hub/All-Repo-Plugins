@@ -261,3 +261,10 @@ Handcrafted wooden automata that come alive (rechargeable and motor-powered) plu
 ```
 
 **Tags:** wooden automata, automaton, magnetic levitation, levitating decor, floating desk toy, kinetic sculpture, unique gifts, christmas gift ideas, toygenie, shorts
+
+## Playlists (created 19 Nov 2026, public)
+- **Wooden Automata & Magnetic Levitation** (`PLFSa0wmetV9U`), 11 videos: zeZvwqwAN7A, PrfVh818iq8, t6Lo2l5fmfg, PMeaVmnPzsY, 9twWjbjQyA0, 5XBidMgRoVU, v3zp6IRFZrE, P6ovxacq_dk, 2e6HIX29J4U, TmDYgg7jWb0, zX99PDaqrvU
+- **Genie Books: Personalised Story Books** (`PLYyRAV5ep3U0`), 3 videos: -yPNVc3HSa8, bDQJgQwb0D0, A1EsyEXnUO4
+
+## Zapier skill
+Saved as `toygenie-youtube-publish`. It matches new uploads to Drive SKU folders by file size, writes the metadata from Shopify, posts it after your OK and adds each video to the right playlist.
