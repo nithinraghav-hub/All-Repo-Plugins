@@ -270,3 +270,6 @@ Saved as `toygenie-youtube-publish`. It matches new uploads to Drive SKU folders
 
 ## Update: Totoro
 - `fPHj6Gth06A` titled "Levitating Wooden Totoro That Floats in Mid-Air 🌳✨ #shorts", linked to craftmm-original-hand-crafted-wooden-totoro, and added to the automata playlist (position 12). Privacy is still unlisted. The skill no longer blocks Totoro.
+
+## Update: Genie Books intro
+- `bdY1-YHbVWU` (was "5775668.mp4", public) titled "Meet Genie Books by ToyGenie 📖✨ Personalised Story Books Starring Your Child" and added as the first video in the Genie Books playlist (now 4 videos).
