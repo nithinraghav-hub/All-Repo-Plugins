@@ -276,3 +276,8 @@ Saved as `toygenie-youtube-publish`. It matches new uploads to Drive SKU folders
 
 ## Update: Horse automaton
 - `bhk3PA3-nEA` (was "c37459d4…HD-1080p-4.8Mbps-99814374.mp4", unlisted) titled "Handcrafted Wooden Horse Automaton: Watch Wood Come to Life 🐎 #shorts", linked to handcrafted-wooden-horse-automaton, and added to the automata playlist after the other automata (now 13 videos). Privacy is still unlisted.
+
+## Update: Genie Books short ads
+- `AuPGhtBn3YQ` (was "Take 2.mp4", public) titled "Make Them the Hero of Their Own Story 📖✨ Genie Books by ToyGenie #shorts".
+- `wO4VbnOXqxY` (was "Take 2 (3).mp4", public) titled "The Christmas Gift They'll Never Forget 🎄📖 Personalised Story Books #shorts".
+- Both added to the Genie Books playlist (now 6 videos).
