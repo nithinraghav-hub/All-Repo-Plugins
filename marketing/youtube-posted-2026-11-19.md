@@ -273,3 +273,6 @@ Saved as `toygenie-youtube-publish`. It matches new uploads to Drive SKU folders
 
 ## Update: Genie Books intro
 - `bdY1-YHbVWU` (was "5775668.mp4", public) titled "Meet Genie Books by ToyGenie 📖✨ Personalised Story Books Starring Your Child" and added as the first video in the Genie Books playlist (now 4 videos).
+
+## Update: Horse automaton
+- `bhk3PA3-nEA` (was "c37459d4…HD-1080p-4.8Mbps-99814374.mp4", unlisted) titled "Handcrafted Wooden Horse Automaton: Watch Wood Come to Life 🐎 #shorts", linked to handcrafted-wooden-horse-automaton, and added to the automata playlist after the other automata (now 13 videos). Privacy is still unlisted.
