@@ -281,3 +281,7 @@ Saved as `toygenie-youtube-publish`. It matches new uploads to Drive SKU folders
 - `AuPGhtBn3YQ` (was "Take 2.mp4", public) titled "Make Them the Hero of Their Own Story 📖✨ Genie Books by ToyGenie #shorts".
 - `wO4VbnOXqxY` (was "Take 2 (3).mp4", public) titled "The Christmas Gift They'll Never Forget 🎄📖 Personalised Story Books #shorts".
 - Both added to the Genie Books playlist (now 6 videos).
+
+## Update: all videos public
+At the user's request, set to public: zX99PDaqrvU, 9twWjbjQyA0, bhk3PA3-nEA, fPHj6Gth06A, TmDYgg7jWb0, 5XBidMgRoVU, 8O8uhOZVd60, zeZvwqwAN7A. All 21 channel videos are now public.
+Still untitled: y2cOxYN6358, 8O8uhOZVd60.
