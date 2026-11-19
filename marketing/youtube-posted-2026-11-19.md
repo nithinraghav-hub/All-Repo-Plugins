@@ -19,7 +19,6 @@ Updated through Zapier (YouTube API `videos.update`, snippet only; privacy left 
 | [zeZvwqwAN7A](https://youtu.be/zeZvwqwAN7A) | automata-gifts-that-move 4x5 | Gifts That Actually Move ✨ Wooden Automata & Floating Decor #shorts |
 
 ## Not changed (needs a decision)
-- `fPHj6Gth06A`: Totoro (MAG-002 / video-01), unlisted. Left untitled because of the copyright risk.
 - `bhk3PA3-nEA`, `y2cOxYN6358` (public), `8O8uhOZVd60`: no matching file in the Drive folder.
 - `bdY1-YHbVWU`, `wO4VbnOXqxY`, `AuPGhtBn3YQ`: older uploads (6 Nov), public, raw filenames.
 - `A1EsyEXnUO4`: already titled; left as is.
@@ -268,3 +267,6 @@ Handcrafted wooden automata that come alive (rechargeable and motor-powered) plu
 
 ## Zapier skill
 Saved as `toygenie-youtube-publish`. It matches new uploads to Drive SKU folders by file size, writes the metadata from Shopify, posts it after your OK and adds each video to the right playlist.
+
+## Update: Totoro
+- `fPHj6Gth06A` titled "Levitating Wooden Totoro That Floats in Mid-Air 🌳✨ #shorts", linked to craftmm-original-hand-crafted-wooden-totoro, and added to the automata playlist (position 12). Privacy is still unlisted. The skill no longer blocks Totoro.
