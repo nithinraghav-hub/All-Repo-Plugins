@@ -285,3 +285,8 @@ Saved as `toygenie-youtube-publish`. It matches new uploads to Drive SKU folders
 ## Update: all videos public
 At the user's request, set to public: zX99PDaqrvU, 9twWjbjQyA0, bhk3PA3-nEA, fPHj6Gth06A, TmDYgg7jWb0, 5XBidMgRoVU, 8O8uhOZVd60, zeZvwqwAN7A. All 21 channel videos are now public.
 Still untitled: y2cOxYN6358, 8O8uhOZVd60.
+
+## Update: Genie Books ad (4:5)
+- `8O8uhOZVd60` (was "8374aa7a-….mp4", public) titled "A Storybook Starring Your Child 🌟 Personalised Genie Books by ToyGenie #shorts" and added to the Genie Books playlist (now 7 videos).
+- Note: the "Free shipping in Australia" end card on zeZvwqwAN7A stays as is. Every automata and levitation product is over $80, so it's accurate.
+- Still untitled: y2cOxYN6358.
