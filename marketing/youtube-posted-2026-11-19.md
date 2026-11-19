@@ -294,3 +294,9 @@ Still untitled: y2cOxYN6358, 8O8uhOZVd60.
 ## Update: second dragon video, channel complete
 - `y2cOxYN6358` (was "b8da8796….HD-1080p-7.2Mbps-99749957.mp4", public) titled "The Guardian Dragon 🐉 A Wooden Automata Gift That Moves #shorts", linked to craftsmm-original-wooden-dragon-automata, and placed next to the other dragon video in the automata playlist (now 14 videos).
 - All 21 channel videos are now titled, described and public. Playlists: Automata & Levitation has 14 videos, Genie Books has 7.
+
+## Update: 21 scheduled videos (uploaded 19 Nov, ~15:22–15:40 UTC)
+- 21 private uploads matched to the content calendar by exact file size. Each got its title, description and tags, a `publishAt` of 7:00 pm AEDT (08:00 UTC) daily from 20 Nov to 10 Dec, and a place in the automata playlist. Video IDs are in column R of the calendar sheet.
+- 5 hold uploads (Sheep Meadow wQ9F5wSLxro; Fish Nightlight 4jULkJtwfr0, vt4Ydf9OV44, l1xobZYxsm4, U5C08A2wWFI) stay private and untitled until the Shopify listings exist.
+- 9 duplicates deleted. Each was byte-identical to an already-public video: 2GCBys8uEsM, egUD2Z93C3g, 57JZYJ27FM8, kltV7MO7bRE, ZlbWbJjDlac, KGo6WOg2pOk, je7LSFZ9nmM, Qhjnx6OY_dU, FeO3xXW3yrI.
+- Watermark files: marketing/brand/watermark/ (300×300 PNG; badge and plain versions).
