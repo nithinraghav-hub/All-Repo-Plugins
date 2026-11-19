@@ -290,3 +290,7 @@ Still untitled: y2cOxYN6358, 8O8uhOZVd60.
 - `8O8uhOZVd60` (was "8374aa7a-….mp4", public) titled "A Storybook Starring Your Child 🌟 Personalised Genie Books by ToyGenie #shorts" and added to the Genie Books playlist (now 7 videos).
 - Note: the "Free shipping in Australia" end card on zeZvwqwAN7A stays as is. Every automata and levitation product is over $80, so it's accurate.
 - Still untitled: y2cOxYN6358.
+
+## Update: second dragon video, channel complete
+- `y2cOxYN6358` (was "b8da8796….HD-1080p-7.2Mbps-99749957.mp4", public) titled "The Guardian Dragon 🐉 A Wooden Automata Gift That Moves #shorts", linked to craftsmm-original-wooden-dragon-automata, and placed next to the other dragon video in the automata playlist (now 14 videos).
+- All 21 channel videos are now titled, described and public. Playlists: Automata & Levitation has 14 videos, Genie Books has 7.
