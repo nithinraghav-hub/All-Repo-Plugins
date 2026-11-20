@@ -13,3 +13,8 @@ Live Google Sheet (Drive → ToyGenie Youtube): https://docs.google.com/spreadsh
 - TOYGENIE badge burned in top-left (17% of the short side, 90% opacity), capped at 1080p, H.264, faststart.
 - Horse (24 Nov) uses the supplier clip the user uploaded. The supplier's moving "marinerpoet.com" text was tracked frame by frame and inpainted, with the user's OK (marinerpoet.com is the supplier).
 - Still needed: an Instagram/Facebook clip for the Horse slot on 5 Dec.
+
+## Galloping Horse hold (20 Nov)
+- The Drive folder "AUT-003 Galloping Horse" holds clips of the **CRAFTSMM Galloping Horse** (supplier page: craftsmm.com/products/original-galloping-horse-automata-handcrafted-wooden-kinetic-sculpture). It is **not** the Shopify "Handcrafted Wooden Horse Automaton" ($480), which is the marinerpoet jointed horse.
+- YouTube yqpADapG8jY (was 24 Nov) and VsrPpAyFzDA (was 5 Dec) are unscheduled and private until the Galloping Horse is listed in Shopify. Then: rewrite the copy, link the new product and reschedule.
+- Watermarked Instagram/Facebook copies of both Galloping Horse clips were sent to the user (AUT-003_galloping-horse_video-0X_IG-FB.mp4).
