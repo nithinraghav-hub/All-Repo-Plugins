@@ -7,3 +7,9 @@ Live Google Sheet (Drive → ToyGenie Youtube): https://docs.google.com/spreadsh
 - **12:30 pm every 2nd day:** a Genie Books post on Instagram and Facebook only (it's already on YouTube), running up to the 17 Dec order-by date with a countdown.
 - **Holds (11–15 Dec):** Sheep Meadow (AUT-005) and Fish Nightlight (AUT-006) have no Shopify listing yet.
 - Until 5 Dec, automata captions say "order early for Christmas" (handmade, ships in 7–15 business days). After that they switch to birthdays, New Year and self-gifting.
+
+## Instagram/Facebook watermarked copies (20 Nov)
+- 20 files, sent to the user in the app. Each name is `<date>_<SKU>_<product>_<clip>_IG-FB.mp4`.
+- TOYGENIE badge burned in top-left (17% of the short side, 90% opacity), capped at 1080p, H.264, faststart.
+- Horse (24 Nov) uses the supplier clip the user uploaded. The supplier's moving "marinerpoet.com" text was tracked frame by frame and inpainted, with the user's OK (marinerpoet.com is the supplier).
+- Still needed: an Instagram/Facebook clip for the Horse slot on 5 Dec.
